@@ -1,0 +1,17 @@
+ship_detector_graph/
+
+images/train
+images/test
+
+training/
+test_output/
+.ipynb_checkpoints/
+
+data/test.record
+data/train.record
+data/test_ship_segmentations.csv
+data/train_ship_segmentations.csv
+
+test.ipynb
+faster_rcnn_resnet50_coco_2018_01_28/
+
